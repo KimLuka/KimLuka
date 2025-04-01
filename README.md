@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-I'm **Front-end Developer**, Seongjong Kim (Luka Kim)!  
+I'm **Front-end Developer**, Seongjong Kim(Luka Kim)!  
 안녕하세요, '요구사항 너머의 문제를 찾아, 더 나은 사용자 경험을 만드는' 프론트엔드 개발자 김성종입니다!
 
 ---
