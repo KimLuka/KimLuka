@@ -17,7 +17,7 @@ I'm **Front-end Developer**, Seongjong Kim(Luka Kim)!
 
 ### 🔄 State Management & Data Fetching  
 <p>
-  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Tanstack Query-111727?style=flat-square&logo=ReactQuery&logoColor=white"/>  
 </p>
 
 ### 🎨 Styling
