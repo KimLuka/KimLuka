@@ -1,7 +1,7 @@
 # Hi there 👋  
 
 I'm **Front-end Developer**, Seongjong Kim(Luka Kim)!  
-안녕하세요, '요구사항 너머의 문제/개선점을 찾아, 더 나은 사용자 경험을 만드는' 프론트엔드 개발자 김성종입니다!
+안녕하세요, '구조화된 사고로 개발 내외 문제를 정의하고 개선하는' 프론트엔드 개발자 김성종입니다!
 
 ---
 
@@ -17,7 +17,8 @@ I'm **Front-end Developer**, Seongjong Kim(Luka Kim)!
 
 ### 🔄 State Management & Data Fetching  
 <p>
-  <img src="https://img.shields.io/badge/Tanstack Query-111727?style=flat-square&logo=TanstackQuery&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Tanstack Query-111727?style=flat-square&logo=TanstackQuery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/zustand-orange?style=flat-square&logo=Zustand&logoColor=white"/>
 </p>
 
 ### 🎨 Styling
